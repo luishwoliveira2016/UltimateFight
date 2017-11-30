@@ -1,9 +1,8 @@
 Ultimate Fight Game
 
-Game de luta estilo arcade para html5
+Game de luta estilo arcade  em html5
 
 Leia as instruções :
-
 
 1- Baixe o a pasta 'ultimatefight'
 
