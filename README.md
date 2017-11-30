@@ -4,7 +4,7 @@ Game de luta estilo arcade  em html5
 
 Leia as instruções :
 
-1- Baixe o a pasta 'ultimatefight'
+1- Baixe o a pasta 'UltimateFightGame'
 
 2- Abra o arquivo 'jogo.html'
 
