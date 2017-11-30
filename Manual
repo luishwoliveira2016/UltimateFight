@@ -1,0 +1,38 @@
+Ultimate Fight Game - (2017)
+
+/* Desenvolvido por Luis H. W. de Oliveira */
+
+Game de luta estilo arcade para 2 jogadores(beta version).
+
+O game possui dois personagens (Lash e Roxy).
+
+Comandos :
+
+player 1:
+
+a move para a esquerda
+d move para a direita
+s agachar
+w pular
+z socar
+
+player2 :
+
+cursor esquerda  move para a esquerda
+cursor direita para a direita
+cursor baixo agachar
+cursor cima pular
+k socar
+
+O objetivo do jogo é acertar seu adversario com socos ,
+
+o jogador que deixar seus pontos de vida chegar em zero , perderá .
+
+Ganhará o jogo , logicamente quem conseguir acertar seu adversário sem perder pontos de vida, ponto de chegar ao zero.
+
+
+
+
+
+
+
