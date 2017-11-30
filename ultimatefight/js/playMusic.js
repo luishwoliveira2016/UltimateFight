@@ -17,6 +17,7 @@ create :function() {
     music = game.add.audio('music');
 
     music.play();
+    music.loopFull(0.6);
     game.input.onDown.add(changeVolume, this);
 
 },

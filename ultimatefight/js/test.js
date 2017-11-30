@@ -24,6 +24,7 @@ actionOnclick : function () {
 create : function() {
     music = game.add.audio('music');
     music.play();
+    music.loopFull(1);
 
     background = game.add.tileSprite(0, 0, 1250, 1600, 'background');
     logo = game.add.tileSprite(50, 50, 750,120, 'logo');
